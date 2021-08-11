@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CentralBankMoneyRateTest</string>
+    <string name="button_convert">Конвертировать</string>
+    <string name="button_refresh">Обновить</string>
+    <string name="change_valute">Выберите валюту</string>
+    <string name="converter_tittle">Конвертер валют</string>
+    <string name="input_convert_summ">Введите сумму, в рублях.</string>
+    <string name="recycler_tittle_name">Name</string>
+    <string name="recycler_tittle_value">Value</string>
+    <string name="connection_error">Error</string>
+    <string name="connection_check">Please, check your internet connection</string>
+    <string name="button_download">Загрузить данные</string>
+    <string name="valute_code_main_tittle">Code</string>
+    <string name="valute_tittle_numcode">Num</string>
+    <string name="valute_tittle_charcode">Char</string>
+</resources>
